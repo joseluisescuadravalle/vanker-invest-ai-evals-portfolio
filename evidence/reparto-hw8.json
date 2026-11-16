@@ -1,0 +1,22 @@
+{
+  "total_cases": 12,
+  "development": [
+    "vi-e-001",
+    "vi-e-002",
+    "vi-e-004",
+    "vi-e-008",
+    "vi-e-009",
+    "vi-e-010",
+    "vi-e-012"
+  ],
+  "test": [
+    "vi-e-003",
+    "vi-e-005",
+    "vi-e-006",
+    "vi-e-007",
+    "vi-e-011"
+  ],
+  "runs_per_test_case_per_configuration": 1,
+  "test_previously_exposed_to_related_course_work": true,
+  "source": "optimize/state/split.json"
+}

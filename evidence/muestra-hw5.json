@@ -1,0 +1,14 @@
+{
+  "sample": "HW5 formal sample excluding l5_stability",
+  "total": 114,
+  "fail": 65,
+  "pass": 49,
+  "mode": "internal_handoff_operation_wording",
+  "source_note": "A sample prevalence, not production traffic",
+  "additional_holdout_l5": {
+    "total": 15,
+    "fail": 11,
+    "pass": 4
+  },
+  "method": "Counted entries in hw5_split_manifest.jsonl by split and hw5_outcome, then checked against target.json"
+}

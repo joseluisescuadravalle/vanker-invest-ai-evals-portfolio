@@ -1,0 +1,17 @@
+{
+  "name": "s2",
+  "prompt_version": "v1.2.2-hw8-search",
+  "model": "gpt-5.6-luna",
+  "candidate_commit": "7db660283eae4c024253fcdf790647a4cbbf84b1",
+  "evaluated_agent_commit": "4f456ced905af9ad3ed46beb33c5393aa5281fa8",
+  "evidence_commit": "2532f8ed0f5bfccf2310850708829b812e63230d",
+  "agent_file_sha256": "c07c3bb5aeaddd5c7be57d732e54ebd4a211fbcd5b8646b9c5a5a1df9e5d8cb1",
+  "test_result": "5/5 with one run per test case",
+  "production_approved": false,
+  "global_compliance_approved": false,
+  "source": [
+    "optimize/state/final_version.json",
+    "optimize/state/final_version.provenance.json",
+    "optimize/results/closure-decision-20261112.json"
+  ]
+}

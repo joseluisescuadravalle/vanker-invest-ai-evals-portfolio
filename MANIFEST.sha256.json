@@ -1,0 +1,28 @@
+{
+  "purpose": "SHA-256 for deliverable file integrity; generated locally; NOT original repo hashes",
+  "files": {
+    ".gitignore": "45f40308263e34038425bda27c578188d86eb36a57db26fa78ea2547a0e2f1c5",
+    "MANIFEST.sha256.json": "da7d2bfeb86c2cffe90b43e4e6642d65510494afed70a584f483c2c19964611f",
+    "PUBLICACION.md": "8d5e1bc7094ad67ca8adf2a016b1d758e5039194e04d89745c2a45e2543b4527",
+    "README.md": "a85ac46ce1e8da7f7c8aa23d160040d101a70fcc03694c37481c0b868e0424aa",
+    "SECURITY.md": "e575334871e1591a53fdc52de015472a5b9674c1f3101904b8516b1d3cf9b50c",
+    "case-study/01-contexto-y-rol.md": "0b29534d1f791aae7e08ea7495145a2a459227d351dcdeba7e4409cc07162c71",
+    "case-study/02-comportamiento-y-evaluacion.md": "988412a203b15179d2040e3a6d6fd4be5f8bc672523efdf1b497375d64cb90ec",
+    "case-study/03-experimento-y-resultados.md": "67f0d16d9777cb7fc1ebc4e8d9bfea9f28fec8653833bbf792dcb186df2c3ff5",
+    "case-study/04-decisiones-y-limitaciones.md": "e9daedba1028c96bc7f9400fcfb6300f922cd3555d739774930daa272d5c1c49",
+    "evidence/busqueda-hw8.json": "00165690a67f43ceda86ce3ee7df105893f31db44527aa84954f53364de1ebcd",
+    "evidence/hallazgos-editoriales.json": "a2374572e7cf3fce9eae33895a16f86b9f780ffe37f30a82eaf5d1a1cf007cfd",
+    "evidence/indice-de-evidencias.md": "e63f96c893c7e48767003884c82d8d2182a5398a59ba7bda57c9efeae20e4c9d",
+    "evidence/intervenciones-manuales.csv": "67440184c93e7d19a4d018a030e2c24eb4d67bc5aa8fd0fac563b655c128752e",
+    "evidence/matriz-test-hw8.csv": "bb9aecc079531a55b86058b73348bf3db78a79c66f4e25ace8560c45c4b39428",
+    "evidence/muestra-hw5.json": "80ac397a19714b5fff4008dbe30ad30eaf0392c348bedaf0b928cf96e5e5b3a7",
+    "evidence/procedencia.md": "11feb19d98c89e8268e43dcd9dbcc90488633aeb1c3ef56b84999093fcaf71b5",
+    "evidence/reparto-hw8.json": "0f8a12d005e167122a9c129d0ab1df79376aa1c51463862a978e7039fca069bb",
+    "evidence/resultados-test-hw8.csv": "9ec3edababd553d9d9e55b13c4d870d84d9f6ac9cc62413fb3cd3cb80ea73495",
+    "evidence/version-final.json": "465b6982f9895f34f414778f8991edd30614b752c05513859b5a1480cff68568",
+    "reproducibility/README.md": "a8c8c02deb024e4eedce31ffe8c2dcd1815b49c7b9964d945fa1f351e0331e48",
+    "reproducibility/verify.py": "11fc4935121fd624d58f7f27c48a85ac69296697586077ad85386ac3a4feb9f0",
+    "tests/test_evidence.py": "b077e73c99a625ba5153d6537a368ab0b5183fde9929a1f9149d710f970f02b3",
+    "visuals/comparativa-hw8.png": "d0b4864cea221f0d565ea46a7b0f3a8131af30be59f417a9852813630b82798e"
+  }
+}

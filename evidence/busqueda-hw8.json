@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "name": "s1",
+      "development_passed": 5,
+      "development_cases": 7,
+      "M6_passed": 3,
+      "M6_cases": 3,
+      "M1_regressions": [
+        "vi-e-001"
+      ],
+      "decision": "revert",
+      "budget_case_calls": 7
+    },
+    {
+      "name": "s2",
+      "development_passed": 7,
+      "development_cases": 7,
+      "M6_passed": 3,
+      "M6_cases": 3,
+      "M1_regressions": [],
+      "decision": "keep (mechanical), then human-selected experimental closing configuration",
+      "budget_case_calls": 7
+    }
+  ],
+  "budget_used": 14,
+  "budget_max": 150,
+  "stop_reason": "No third candidate can exceed the strictly increasing development score rule after reaching 7/7",
+  "source": "optimize/results/improve-loop-batch-20261111.json"
+}

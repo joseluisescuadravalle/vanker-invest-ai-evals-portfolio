@@ -1,0 +1,5 @@
+candidate,layer,passed,total,M6_passed,M6_total,M1_passed,M1_total,decision,agent_cost_usd,judge_cost_estimate_usd,agent_requests,judge_requests,git_commit
+starting_version,none,2,7,0,3,2,4,reference,0.003728,0.001448,23,3,5a3be41fe6c3855218e3c54b625d0e6fe3b62a65
+prompt_change,prompt,4,7,3,3,1,4,revert,0.004673,0.001405,24,3,9634f7cc2a8d1eb6f6f9e0fff9e8489214eb3ea5
+tool_change,tool,5,7,3,3,2,4,revert,0.004364,0.001364,24,3,92c6bd9a1bd614a03353a13b6ed26ca8174a7bdd
+harness_change,harness,4,7,3,3,1,4,revert,0.004444,0.001491,25,3,8784e79a7a9aa99794860eb80a3ebf6b65c7112a

@@ -1,0 +1,6 @@
+case_id,mode,config_1,config_2,config_3,config_4
+vi-e-003,M1,Fail,Fail,Fail,Pass
+vi-e-005,M1,Fail,Pass,Fail,Pass
+vi-e-006,M6,Fail,Fail,Fail,Pass
+vi-e-007,M6,Fail,Fail,Fail,Pass
+vi-e-011,M1,Pass,Pass,Pass,Pass
