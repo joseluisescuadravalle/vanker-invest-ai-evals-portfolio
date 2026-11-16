@@ -54,7 +54,7 @@ La comparación entre configuraciones **3 y 4** mantiene fijo el modelo y cambia
 
 Este repositorio es una **selección editorial nueva** basada en los artefactos documentados en `joseluisescuadravalle/Vanker_Invest`, rama `main`, commit **`31920725ed1555cb417f1a3fdda1ce44fb526bbd`**. Contiene tablas de datos **derivadas y transcritas de los registros originales**; no copia el corpus completo de trazas, prompts, conversaciones, credenciales, configuraciones operativas ni el historial del repositorio de desarrollo. Véase [procedencia y hashes originales](evidence/procedencia.md).
 
-**Nota sobre enlaces de origen:** el repositorio de trabajo podría pasar a privado. Sus enlaces pueden dejar de funcionar para lectores externos; este caso conserva los resúmenes y los datos necesarios para verificar los cálculos publicados **sin depender de acceso al repositorio original**. Los checks internos no certifican por sí solos la autenticidad de las ejecuciones históricas, que dependen de los artefactos de origen documentados.
+**Nota sobre enlaces de origen:** el repositorio de trabajo `joseluisescuadravalle/Vanker_Invest` es privado. Sus archivos no están disponibles para lectores externos; este caso conserva los resúmenes y los datos necesarios para verificar los cálculos publicados **sin depender de acceso al repositorio original**. Los checks internos no certifican por sí solos la autenticidad de las ejecuciones históricas, que dependen de los artefactos de origen documentados.
 
 **Estado de revisión de seguridad:** esta versión de portfolio contiene una selección pequeña de datos no sensibles aparentes; el escaneo exhaustivo del repositorio histórico y su historial queda fuera de esta entrega. Véase [SECURITY.md](SECURITY.md).
 

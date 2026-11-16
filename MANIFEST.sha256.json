@@ -1,10 +1,7 @@
 {
-  "purpose": "SHA-256 for deliverable file integrity; generated locally; NOT original repo hashes",
+  "purpose": "SHA-256 of the published content files (excluding this manifest); does not authenticate the original development repository",
   "files": {
-    ".gitignore": "45f40308263e34038425bda27c578188d86eb36a57db26fa78ea2547a0e2f1c5",
-    "MANIFEST.sha256.json": "da7d2bfeb86c2cffe90b43e4e6642d65510494afed70a584f483c2c19964611f",
-    "PUBLICACION.md": "8d5e1bc7094ad67ca8adf2a016b1d758e5039194e04d89745c2a45e2543b4527",
-    "README.md": "a85ac46ce1e8da7f7c8aa23d160040d101a70fcc03694c37481c0b868e0424aa",
+    "README.md": "489ca50265c44e07c1335d5b7c9279dab07d08389b0b5e0ae562c7d16a0f3847",
     "SECURITY.md": "e575334871e1591a53fdc52de015472a5b9674c1f3101904b8516b1d3cf9b50c",
     "case-study/01-contexto-y-rol.md": "0b29534d1f791aae7e08ea7495145a2a459227d351dcdeba7e4409cc07162c71",
     "case-study/02-comportamiento-y-evaluacion.md": "988412a203b15179d2040e3a6d6fd4be5f8bc672523efdf1b497375d64cb90ec",
